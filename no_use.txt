@@ -1,0 +1,112 @@
+!-- Catalog Section: Socks -->
+<section class="py-24 bg-surface-container-low px-8" id="calcetines">
+<div class="max-w-screen-2xl mx-auto">
+<div class="flex justify-between items-end mb-12">
+<div>
+<h2 class="text-4xl font-bold mb-2"><span class="italic text-primary">Calcetines</span></h2>
+<div class="h-1 w-24 bg-gradient-to-r from-primary to-transparent"></div>
+</div>
+<a class="text-primary font-medium hover:underline" href="#">Ver todo</a>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-3 gap-10">
+<!-- Sock 1 -->
+<div class="flex flex-col">
+<div class="aspect-[4/5] rounded-xl overflow-hidden mb-6 editorial-shadow">
+<img alt="Artisan Socks" class="w-full h-full object-cover" data-alt="Pair of high-quality knit wool socks in soft grey and lavender, arranged neatly on a wooden chair, cozy atmospheric lighting" src="https://realsportperu.com/wp-content/uploads/2023/02/NEGRO_NARANJA-FOSFORECENTE-600x900.jpg"/>
+</div>
+<div class="px-2">
+<h3 class="text-2xl font-semibold italic mb-2">Futsalera</h3>
+<p class="text-on-surface-variant leading-relaxed mb-4">Lana merino tejida a mano para un confort inigualable en los días frescos.</p>
+<p class="text-primary font-bold text-lg">$35.00</p>
+</div>
+</div>
+<!-- Sock 2 -->
+<div class="flex flex-col mt-8 md:mt-16">
+<div class="aspect-[4/5] rounded-xl overflow-hidden mb-6 editorial-shadow">
+<img alt="Lace Socks" class="w-full h-full object-cover" data-alt="Close up of delicate sheer lace socks with floral embroidery worn with elegant loafers, editorial fashion photography" src="https://away.com.pe/wp-content/uploads/2024/08/PRODUCTOS-MEDIAS-PACKS-11.png"/>
+</div>
+<div class="px-2">
+<h3 class="text-2xl font-semibold italic mb-2">Tobillera</h3>
+<p class="text-on-surface-variant leading-relaxed mb-4">Transparencias sofisticadas con bordados florales hechos a mano.</p>
+<p class="text-primary font-bold text-lg">$42.00</p>
+</div>
+</div>
+<!-- Sock 3 -->
+<div class="flex flex-col">
+<div class="aspect-[4/5] rounded-xl overflow-hidden mb-6 editorial-shadow">
+<img alt="Cotton Socks" class="w-full h-full object-cover" data-alt="Set of three organic cotton socks in muted pastel tones of lavender, slate, and cream, minimalist presentation" src="https://sydney.pe/wp-content/uploads/2023/09/20-1.jpg"/>
+</div>
+<div class="px-2">
+<h3 class="text-2xl font-semibold italic mb-2">Talonera</h3>
+<p class="text-on-surface-variant leading-relaxed mb-4">Algodón orgánico peinado para una suavidad que perdura en el tiempo.</p>
+<p class="text-primary font-bold text-lg">$18.00</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- About Us Section -->
+<section class="py-24 px-8">
+<div class="max-w-screen-xl mx-auto flex flex-col md:flex-row gap-16 items-center">
+<div class="md:w-1/2">
+<img alt="MiAngel workspace" class="rounded-xl editorial-shadow w-full" src="https://img.freepik.com/fotos-premium/como-hacer-rosa-cinta-tela-tus-propias-manos-manualidades-tus-propias-manos_429338-481.jpg"/>
+</div>
+<div class="md:w-1/2">
+<h2 class="text-4xl md:text-5xl font-bold mb-8 italic">El Arte de lo <br/>Hecho a Mano</h2>
+<p class="text-lg text-on-surface-variant leading-relaxed mb-6">
+                    En Mi Ángel, creemos que la belleza reside en los detalles que a menudo pasan desapercibidos. Lo que comenzó como una pasión por los lazos perfectos se ha convertido en una casa de diseño artesanal que abarca cada prenda íntima.
+                </p>
+
+<div class="grid grid-cols-2 gap-8 border-t border-outline-variant pt-8">
+<div>
+<p class="text-3xl font-bold text-primary italic">100%</p>
+<p class="text-sm font-label uppercase tracking-widest text-secondary">Orgánico</p>
+</div>
+<div>
+<p class="text-3xl font-bold text-primary italic">Hecho</p>
+<p class="text-sm font-label uppercase tracking-widest text-secondary">a mano</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Catalog Section: Undergarments -->
+<section class="py-24 bg-surface-container-high px-8" id="interiores">
+<div class="max-w-screen-2xl mx-auto">
+<div class="flex flex-col items-center mb-16 text-center">
+<h2 class="text-4xl font-bold mb-4"><span class="italic text-primary">Interiores</span></h2>
+<p class="text-on-surface-variant max-w-2xl italic text-lg">Suavidad que abraza la piel.</p>
+</div>
+<div class="grid grid-cols-1 md:grid-cols-12 gap-8">
+<div class="md:col-span-8 group relative overflow-hidden rounded-xl h-[500px]">
+<img alt="Premium Underwear" class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" data-alt="Exquisite silk and lace lingerie set in pale lavender draped over a vintage velvet chair, luxury editorial lighting" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAqnRDVGVJ3WZy8PdwygutQoL3qbqRQIHywHBJzK-Sn2dzI2-xc51CeP4tmrkkR68ZuCrd25BZjbLeUw5_1Cfuw9MtFazd03UOYVB2-4MamFbZo_PNhDBOCxXgiW1h43vgHMt-tb0-mOHlmAVMOMfUkL6XJ3wWxZqYchzSzDqrZSqdCh9AiOJFsXPKAhZHwi6mii7eUibPn95ef2Ivj4jiIxizbK1H6eYnOyg705FXozXZIDg8r6zMpS8Dd-ZpqE-ETSpiRTVX3OWNz"/>
+<div class="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent flex flex-col justify-end p-8">
+<h3 class="text-3xl font-bold text-white mb-2 italic">Conjunto Esencia</h3>
+<p class="text-white/90 max-w-md mb-6 leading-relaxed">Descripcion aun por agregar.</p>
+<button class="bg-white text-on-background px-6 py-3 rounded-lg w-fit font-medium hover:bg-primary-fixed transition-colors">
+                            Descubrir Colección
+                        </button>
+</div>
+</div>
+<div class="md:col-span-4 flex flex-col gap-8">
+<div class="bg-surface-bright p-8 rounded-xl editorial-shadow flex-1">
+<span class="material-symbols-outlined text-primary text-4xl mb-4">eco</span>
+<h4 class="text-xl font-bold mb-2">Fibras Naturales</h4>
+<p class="text-on-surface-variant leading-relaxed">Solo utilizamos algodones y sedas que respetan la respiración de tu piel.</p>
+</div>
+<div class="bg-surface-bright p-8 rounded-xl editorial-shadow flex-1">
+<span class="material-symbols-outlined text-primary text-4xl mb-4">favorite</span>
+<h4 class="text-xl font-bold mb-2">Costura Invisible</h4>
+<p class="text-on-surface-variant leading-relaxed">Técnicas artesanales para asegurar que no existan roces, solo suavidad.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+BARRA DE NAEVACION SUPERIOR 
+ <a class="text-slate-600 dark:text-slate-400 font-medium hover:text-purple-500 transition-colors" href="#calcetines">Calcetines
+</a>
+    <a class="text-slate-600 dark:text-slate-400 font-medium hover:text-purple-500 transition-colors" href="#interiores">Interiores
+</a>
+    
